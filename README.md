@@ -30,7 +30,11 @@ Busco aprimorar minhas habilidades e desenvolver soluções eficientes, prática
 
 ## 📊 Estatísticas
 
+### 🔥 Atividade e Desempenho
 ![Lais GitHub stats](https://github-readme-stats.vercel.app/api?username=imirlais&show_icons=true&theme=dracula)
+
+### 💡 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imirlais&layout=compact&theme=dracula)
 
 ---
 
